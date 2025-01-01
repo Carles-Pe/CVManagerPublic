@@ -16,19 +16,17 @@ If your interest is mainly on this specific tool, jump to the [Domain Specifics]
 
 1. [Overview](#overview)  
 2. [Key Features](#key-features)  
+3. [Domain Specifics](#domain-specifics)
+   - [Candidates](#candidates)
+   - [CVs](#cvs)
+   - [Candidate States](#candidate-states)
+   - [Restaurants](#restaurants)
+   - [Users](#users)
+
 3. [Architecture](#architecture)  
-   - [Clean Architecture](#clean-architecture)
-   - [Layers and Responsibilities](#layers-and-responsibilities)
-   - [Eventual Consistency](#eventual-consistency)
-4. [Cross-Cutting Concerns](#cross-cutting-concerns)
-   - [Auditing and Logging](#auditing-and-logging)
-   - [Identity and Role Services](#identity-and-role-services)
-   - [Transaction Context](#transaction-context)
-5. [Technology Stack](#technology-stack)
-6. [Why This App Stands Out](#why-this-app-stands-out)
-7. [Getting Started](#getting-started)
-8. [Contributing](#contributing)
-9. [License](#license)
+   - [Request Flow](#request-flow)
+   - [Command Flow](#command-flow)
+   - [Event Flow](#event-flow)
 
 ---
 
