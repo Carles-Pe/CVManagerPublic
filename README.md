@@ -152,7 +152,7 @@ For this case specific, we deal with job positions and businesses specific to th
 
 The information on a single user is limited for now as it is intended that the HR provides the accounts to the respective actors. So only contact information and Roles are provided:
 
-![User View](image.png)
+![User View](readme/UI-user-view.png)
 
 ---
 
